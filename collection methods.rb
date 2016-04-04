@@ -118,7 +118,10 @@ home_by_amount = homes.find do |home|
 	home.price == amount
 end
 
-array_printer([home_by_amount])
+#array_printer([home_by_amount])
+
+puts "===================="
+puts "For #{amount}€ you have #{home_by_amount.name} in #{home_by_amount.city}."
 
 
 
