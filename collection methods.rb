@@ -14,7 +14,7 @@ homes = [
   Home.new("Mikel´s place", "Madrid", 8, 47),
   Home.new("Urtzi´s place", "Jaén", 7, 41),
   Home.new("Isa´s place", "Córdoba", 5, 45),
-  Home.new("Alex's place", "Madrid", 6, 49),
+  Home.new("Alex's place", "Madrid", 6, 61),
   Home.new("Jorge's place", "Córdoba", 3, 49),
   Home.new("David's place", "Madrid", 2, 38),
   Home.new("Cecilia's place", "Granada", 4, 32),
